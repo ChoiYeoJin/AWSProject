@@ -1,0 +1,11 @@
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.deps.json
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.runtimeconfig.json
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.runtimeconfig.dev.json
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.dll
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.pdb
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.csprojAssemblyReference.cache
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.csproj.CoreCompileInputs.cache
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.AssemblyInfoInputs.cache
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.AssemblyInfo.cs
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.dll
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda.pdb

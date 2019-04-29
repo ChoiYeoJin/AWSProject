@@ -1,0 +1,11 @@
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.deps.json
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.runtimeconfig.json
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.runtimeconfig.dev.json
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.dll
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\bin\Debug\netcoreapp2.1\AWSLambda.pdb
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.csprojAssemblyReference.cache
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.csproj.CoreCompileInputs.cache
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.AssemblyInfoInputs.cache
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.AssemblyInfo.cs
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.dll
+C:\Users\최여진\Desktop\AWSLambda\AWSLambda\obj\Debug\netcoreapp2.1\AWSLambda.pdb
